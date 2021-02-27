@@ -11,9 +11,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="KvazimodoChat" />
     <orderEntry type="library" name="mariadb-java-client-2.7.2" level="project" />
-    <orderEntry type="library" name="commands" level="project" />
     <orderEntry type="module" module-name="commands" />
   </component>
 </module>
