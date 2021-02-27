@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<GridPane xmlns="http://javafx.com/javafx"
+          fx:controller="gui.AuthenticationWindowController" xmlns:fx="http://javafx.com/fxml" alignment="center"
+          hgap="10" vgap="10">
+    <TextField fx:id="loginField" promptText="Введите login" GridPane.columnIndex="0" GridPane.rowIndex="0" minWidth="250"/>
+    <PasswordField fx:id="passwordField" promptText="Введите пароль" GridPane.columnIndex="0" GridPane.rowIndex="2"/>
+    <AnchorPane GridPane.rowIndex="4" GridPane.columnIndex="0">
+    <Button fx:id="insert" text="Войти" onAction="#getAuthentication" AnchorPane.rightAnchor="10"/>
+    <Button fx:id="backToTheFW" text="Назад" onAction="#backToTheFW" AnchorPane.leftAnchor="10"/>
+    </AnchorPane>
+</GridPane>
