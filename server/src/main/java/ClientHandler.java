@@ -1,4 +1,4 @@
-import commands.*;
+import commands.Commands;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
