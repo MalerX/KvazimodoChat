@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commands">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/commands_jar/commands.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,4 +1,4 @@
-package kvazi_client.windows;
+package windows;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

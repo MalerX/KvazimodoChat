@@ -1,7 +1,7 @@
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.Text?>
-<GridPane fx:controller="kvazi_client.windows.FWController"
+<GridPane fx:controller="windows.FWController"
           xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
     <Text text="Студенческий проект сетевого многопользовательского чата." GridPane.rowIndex="0" GridPane.columnIndex="0" wrappingWidth="240"
     textAlignment="CENTER"/>

@@ -1,4 +1,4 @@
-package kvazi_client.windows;
+package windows;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;

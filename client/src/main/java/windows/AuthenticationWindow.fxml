@@ -3,7 +3,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 <GridPane xmlns="http://javafx.com/javafx"
-          fx:controller="kvazi_client.windows.AuthenticationWindowController" xmlns:fx="http://javafx.com/fxml" alignment="center"
+          fx:controller="windows.AuthenticationWindowController" xmlns:fx="http://javafx.com/fxml" alignment="center"
           hgap="10" vgap="10">
     <TextField fx:id="loginField" promptText="Введите login" GridPane.columnIndex="0" GridPane.rowIndex="0" minWidth="250"/>
     <PasswordField fx:id="passwordField" promptText="Введите пароль" GridPane.columnIndex="0" GridPane.rowIndex="2"/>
