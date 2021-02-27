@@ -13,5 +13,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="KvazimodoChat" />
     <orderEntry type="library" name="commands" level="project" />
+    <orderEntry type="module" module-name="commands" />
   </component>
 </module>
